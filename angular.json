@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "learnngrx"
+    }
+  },
+  "defaultProject": "learnngrx",
+  "cli": {
+    "analytics": "4717c3d1-7890-4de2-bc94-f93066e31627"
+  }
 }
